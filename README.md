@@ -1,1 +1,2 @@
 # edunft
+code create ntf
